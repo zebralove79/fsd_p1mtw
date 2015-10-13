@@ -1,6 +1,6 @@
-# Full Stack Developer - Project 1 - Movie Trailer Website
+# Project 1 - Movie Trailer Website
 
-This repository contains course work for the Udacity course Full Stack Developer. It's the first assignment, the creation of a movie trailer website.
+This repository contains course work for the Udacity course Full Stack Web Developer. It's the first assignment, the creation of a movie trailer website.
 
 The skeleton code was provided by Udacity, the rest of the code written by [Moritz Hellwig] (http://blog.zebralove79.com).
 
