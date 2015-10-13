@@ -1,4 +1,4 @@
-# [Full Stack Developer - Project 1 - Movie Trailer Website
+# Full Stack Developer - Project 1 - Movie Trailer Website
 
 This repository contains course work for the Udacity course Full Stack. It's the first assignment, the creation of a movie trailer website.
 
