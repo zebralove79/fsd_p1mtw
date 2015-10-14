@@ -7,7 +7,7 @@ The skeleton code was provided by Udacity, the rest of the code written by [Mori
 ## Table of contents
 
 * [Quick start](#quick-start)
-* [Requirements] (#requirements)
+* [Requirements](#requirements)
 * [Acknowledgements](#acknowledgements)
 
 ## Quick start
